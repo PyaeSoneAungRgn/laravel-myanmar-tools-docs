@@ -1,5 +1,8 @@
 # Version History
 
+- 3.5.0
+  - support laravel 13
+  - bump laravel-myanmar-tools/phone-number
 - 3.4.0
   - support laravel 12
   - support request validation with nullable eg: nullable|mpt
